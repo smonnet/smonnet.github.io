@@ -6,7 +6,15 @@ Sébastien Monnet homepage
 
 Postal address : LISTIC – Polytech’Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France
 
-Sébastien Monnet is full professor at Savoie Mont Blanc University since september 2016. He teaches at Polytech’ Annecy-Chambéry and works at the LISTIC  laboratory (he is deputy director of the LISTIC). before, he was associate professor at Pierre et Marie Curie University  (now called Sorbonne Université, Paris – France) from september 2007 to august 2016. he was working in the UPMC/Inria REGAL team (called DELYS now) at LIP6. He defended is HDR in november 2015 (Contributions to data replication in large-scale distributed systems). He was on leave at Inria in 2013-2014.
+Sébastien Monnet is full professor at Savoie Mont Blanc University
+since september 2016. He teaches at Polytech’ Annecy-Chambéry and
+works at the LISTIC laboratory (he is deputy director of the
+LISTIC). before, he was associate professor at Pierre et Marie Curie
+University (now called Sorbonne Université, Paris – France) from
+september 2007 to august 2016. he was working in the UPMC/Inria REGAL
+team (called DELYS now) at LIP6. He defended is HDR in november 2015
+(Contributions to data replication in large-scale distributed
+systems). He was on leave at Inria in 2013-2014.
 
 ## Theme : ReGaRD
 
