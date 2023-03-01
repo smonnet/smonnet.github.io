@@ -4,3 +4,5 @@ La prochaine AG de l'ASL se tiendra dans la salle Rulland, rue de la Fraternité
 
 Les comptes sont en cours de validations, le fichier des comptes validés se trouvera ici.
 <!-- [comptes en cours de validation](./comptes2022.pdf) -->
+
+
