@@ -4,3 +4,5 @@ La prochaine AG de l'ASL se tiendra dans la __Salle Yangshuo sous la poste d'Ann
 
 [Le lien pour les comtpes](comptes2024.pdf)
 
+[Cliquez ici pour voir les nouveaux status de l'ASL](status_asl_26886282.pdf)
+
